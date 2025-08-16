@@ -1,4 +1,4 @@
-package com.demo.pagearc;
+package com.pagearc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
